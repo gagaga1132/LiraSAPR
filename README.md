@@ -2,6 +2,8 @@
 
 > [!Note]
 > LIRA-FEM implements Building Information Modeling (BIM) technology and is focused on design and calculation of building structures. Realization of BIM technology is provided by native connection with other architectural, calculation, graphic and documentation systems (SAPFIR-3D, Revit, Tekla, AutoCAD, ArchiCAD, Advance Steel, BoCAD, Allplan, STARK ES, Gmsh, etc.) based on DXF, MDB, STP, SLI, MSH, STL, OBJ, IFC, etc. files.
+
+
 ![image](https://github.com/user-attachments/assets/268426fd-4be8-4501-b5fe-b37bf4b359d7)
 
 > [!Note]
