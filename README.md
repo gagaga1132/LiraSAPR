@@ -13,3 +13,6 @@ Translated with DeepL.com (free version)
 
 > [!TIP]
 > realizing fast algorithms of composing and solving systems of equations with the order of up to several million unknowns. The processor functions in 64- and 32-bit modes using the multi-core capability of modern computers.
+
+📋 License
+/LICENSE
