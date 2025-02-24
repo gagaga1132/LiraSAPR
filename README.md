@@ -1,6 +1,6 @@
 # FREE LiraSAPR 2023 2024 2025
 
-> [Note]
+> [Tip]
 >LIRA-FEM implements Building Information Modeling (BIM) technology focused on the design and calculation of building structures. It allows seamless integration with numerous architectural and documentation systems.
 
 ## System Requirements
