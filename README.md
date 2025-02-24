@@ -1,9 +1,9 @@
 # FREE LiraSAPR 2023 2024 2025 🚀🎉
 
-> [!Tip]
->LIRA-FEM implements Building Information Modeling (BIM) technology focused on the design and calculation of building structures. It allows seamless integration with numerous architectural and documentation systems. 🏗📐
+LIRA-FEM implements Building Information Modeling (BIM) technology focused on the design and calculation of building structures. It allows seamless integration with numerous architectural and documentation systems. 🏗📐
 
-## System Requirements 🖥
+> [!Tip]
+> ## System Requirements 🖥
 - Operating System: Windows 10 or higher 🪟
 - Processor: 2.0 GHz or higher ⚙️
 - RAM: Minimum 4 GB (8 GB recommended) 🧠
