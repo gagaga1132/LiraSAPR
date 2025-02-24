@@ -20,9 +20,12 @@ LIRA-FEM implements Building Information Modeling (BIM) technology focused on th
 ## Documentation 📚
 Complete documentation is available [here](link_to_documentation). 🔗
 
-## Frequently Asked Questions (FAQ) ❓
+# Frequently Asked Questions (FAQ) ❓
 - How do I install the program? 🤔
+- You can install from new [release](ссылка на файл)
+
 - How can I get support? 💬
+- Out TG Support [Support](@MBNSupport)
 
 ## Contribution 🤝
 If you would like to contribute to the project, please review the [contribution guidelines](link_to_contributing_guidelines). ✍️
