@@ -14,7 +14,7 @@ LIRA-FEM implements Building Information Modeling (BIM) technology focused on th
 3. After installation, launch the application.
 
 ## Usage Examples
-- [Screenshots](https://github.com/user-attachments/assets/268426fd-4be8-4501-b5fe-b37bf4b359d7)
+![image](https://github.com/user-attachments/assets/268426fd-4be8-4501-b5fe-b37bf4b359d7)
 
 
 ## Documentation
