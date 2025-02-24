@@ -15,9 +15,9 @@
 > [!TIP]
 > realizing fast algorithms of composing and solving systems of equations with the order of up to several million unknowns. The processor functions in 64- and 32-bit modes using the multi-core capability of modern computers.
 
-License
+# License
 By contributing to this project, you agree that your contributions will be licensed under the same license as the project.
 
 
-Contact
+# Contact
 If you have any questions or need help with contributing, please contact the project maintainers. You can usually find their contact information in the project's README or website
