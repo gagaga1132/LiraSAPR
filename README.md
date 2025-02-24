@@ -3,7 +3,7 @@
 LIRA-FEM implements Building Information Modeling (BIM) technology focused on the design and calculation of building structures. It allows seamless integration with numerous architectural and documentation systems. 🏗📐
 
 > [!Tip]
-## System Requirements 🖥
+>## System Requirements 🖥
 - Operating System: Windows 10 or higher 🪟
 - Processor: 2.0 GHz or higher ⚙️
 - RAM: Minimum 4 GB (8 GB recommended) 🧠
