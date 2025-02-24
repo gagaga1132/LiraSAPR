@@ -32,4 +32,4 @@ If you would like to contribute to the project, please review the [contribution 
 - gagaga1132
 
 ## License
-This project is licensed under the [license](/license).
+[license](https://github.com/gagaga1132/LiraSAPR#MIT-1-ov-file).
