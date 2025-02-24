@@ -31,5 +31,4 @@ If you would like to contribute to the project, please review the [contribution 
 ## Authors
 - gagaga1132
 
-## License
-[license](https://github.com/gagaga1132/LiraSAPR#MIT-1-ov-file).
+## /License
